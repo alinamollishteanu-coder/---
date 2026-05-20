@@ -44,15 +44,29 @@
     - неделя;
     - месяц;
     - год.
+
+<img width="2389" height="1107" alt="Снимок экрана 2026-05-20 094024" src="https://github.com/user-attachments/assets/aa2b9d91-83e0-421f-8693-551e7a2d724f" />
+
+<img width="686" height="308" alt="image" src="https://github.com/user-attachments/assets/0f72d7fc-5e38-4a7c-b1f8-9bd3bfbec47b" />
+
+ 
 - **Приоритет задач** (уровни важности):
   - Очень важно;
   - Важно;
   - Среднее;
   - Минимально.
+
+<img width="425" height="142" alt="image" src="https://github.com/user-attachments/assets/b564ae44-093c-4c81-988f-90eab9d0e896" />
+
+  
 - **Визуальная система состояний**:
   - просроченные задачи — красный оттенок;
   - задачи с близким дедлайном — оранжевый оттенок;
   - выполненные задачи — перечёркивание.
+
+<img width="2475" height="1132" alt="Снимок экрана 2026-05-20 094044" src="https://github.com/user-attachments/assets/5a1b684c-1691-464a-ba01-2449783c6089" />
+
+  
 - **Интерфейс**:
   - адаптивный современный интерфейс;
   - мягкая цветовая палитра;
