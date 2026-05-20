@@ -141,3 +141,12 @@
   - 5. Нажать кнопку «Добавить».
 - **Результат**:
   - после этого задача появится в списке задач.
+
+---
+
+## Список использованных источников:
+-1. Учебный курс на Moodle по JS;
+-2. https://html5book.ru/html-html5/
+-3. https://html5book.ru/css-css3/
+-4. https://html5book.ru/javascript-jquery/
+-5. https://schedulebuilder.org/ru#google_vignette
